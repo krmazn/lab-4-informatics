@@ -4,20 +4,20 @@
 
 #### 0. Создание Dockerfile с установкой двух утилит
 
-<image src=dockfile.png>
+<image src=dockfile.PNG>
 
 #### 1. Создание контейнера и первый запуск команды
 
-<image src=latin_nabe4.png>
+<image src=latin_nabe4.PNG>
 
 #### 2. Создание нескольких контейнеров и подключение их к сети
 
-<image src=two_containers.png>
-<image src=network_connection.png>
+<image src=two_containers.PNG>
+<image src=network_connection.PNG>
 
 #### 3. Проверка сети между контейнерами
 
-<image src=connection1.png>
+<image src=connection1.PNG>
 <image src=connection2.PNG>
 
 Задача выполнена, связь настроена, пакеты передаются и принимаются
